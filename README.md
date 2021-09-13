@@ -1,9 +1,9 @@
-# <Hello, World!> I'm David :wave:
-### Software Engineer, Avid Traveler and Photographer
+# Hey, Welcome to my page! I'm Johnn :wave:
+### Software Engineer, pet lover, knowledge enthusiast 
 **Welcome to my GitHub!**
 I'm a full-stack engineer that loves complex problem solving!
 <!--
-**David7Mejia/David7Mejia** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**johnnvas/johnnvas** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I’m currently working on ...
 - :seedling: I’m currently learning ...
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 #### :seedling: I’m currently learning:
-  - More Python and JS for ML!
+  - C++ and Python
 #### :zap: Fun facts:
-  - I speak English, Spanish and Portuguese.
-  - I come from a background in Biology Human Physiology
+  - I've lived in three countries
+  - I come from a background in Dentistry
 ### Technologies and Tools:
    <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -31,6 +31,6 @@ Here are some ideas to get you started:
    <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
    <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David7Mejia&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David7Mejia&theme=radical&show_icons=true&hide_border=true)
-![](https://komarev.com/ghpvc/?username=David7Mejia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnvas&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnvas&theme=radical&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=johnnvas)
