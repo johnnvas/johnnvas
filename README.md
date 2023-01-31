@@ -1,4 +1,4 @@
-# Hey, Welcome to my page! I'm Johnn :wave:
+# Hi, Welcome to my page! I'm Johnn :wave:
 ### Software Engineer, pet lover, knowledge enthusiast 
 **Welcome to my GitHub!**
 I'm a full-stack engineer that loves complex problem solving!
