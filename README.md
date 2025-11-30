@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 #### :seedling: I’m currently learning:
-  - C++ and Python
+  - C++ 
 #### :zap: Fun facts:
   - I've lived in three countries
   - I come from a background in Dentistry
